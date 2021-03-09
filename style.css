@@ -1,0 +1,295 @@
+/*.all{
+    text-align: center;
+}*/
+
+body{
+	width: 30cm;
+	margin-left: 3.5cm;
+	font-family: georgia;
+
+}
+/*debut de tete*/
+p{
+	background-color: DarkKhaki;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-top: 0px;}
+
+.haut{
+	width: 100%;
+	background-color: DarkKhaki;
+	height: 220px;
+	color: white;
+}
+.linehaut{
+	width: 20cm;
+	height: 3px;
+	background-color: GoldenRod;
+	/*background-image: linear-gradient(to right, blue 90% , yellow 10%);*/
+	float: left;
+	display: inline-block;
+	clear: left;
+	margin-left: 1cm;
+	margin-top: 0px;
+}
+.name{
+	float: left;
+	padding-left: 1cm;
+	display: inline-block;
+	clear: left;
+	margin-bottom: 2px;
+
+}
+.title{
+	float: left;
+	padding-left: 1cm;
+	display: inline-block;
+	clear: left;
+	margin-bottom: 2px;
+	margin-top: 0px;
+}
+.apropos{
+	padding-left: 1cm;
+	width: 20cm;
+	display: inline-block;
+	float: left;
+	clear: left;
+}
+.profil{
+	height: 200px;
+	float: right;
+	padding-right: 1cm;
+	margin-top: 10px;
+	display: inline-block;
+	clear: right;
+	
+}
+
+/*fin de tete*/
+
+}
+.interline {
+}
+/*debut gauche*/
+.gauche{
+	width: 3cm;
+	height: 20cm;
+	margin-top: 0px;
+	display: inline-block;
+	float: left;
+	background-color: #DCDCDC;
+
+
+}
+/*fin gauche*/
+
+
+/*debut droit*/
+.droit{
+	padding-top: 0px;
+	width: 8cm;
+	height: 20cm;
+	margin-top: 0px;
+	float: right;
+	display: inline-block;
+	background-color: DarkKhaki;
+
+}
+/*fin droit*/
+
+
+/*debut milieu*/
+/*fin milieu*/
+/*debut contact*/
+
+/*fin contact*/
+.gradu{
+	width: 1cm;
+	padding-left: 1cm;
+
+}
+.exper{
+	width: 1cm;
+	padding-left: 1cm;
+	padding-top: 107px;
+	display: block;
+	padding-bottom: 20px;
+	clear: both;
+
+}
+.experience{
+	margin-left: 0.5cm;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	padding-left: 3.5cm;}
+
+.a2023{
+	display: block;
+	text-align: center;
+	padding-top: 15px;
+
+}
+.a2025{
+	display: block;
+	text-align: center;
+	padding-top: 173px;}
+.a2028{
+	display: block;
+	text-align: center;
+	padding-top: 117px;}
+.post1{
+	margin-left: 0.5cm
+	margin-top:5px;
+	padding-left: 3.5cm;
+}
+.post2{
+	margin-left: 0.5cm
+	margin-top:5px;
+	padding-left: 3.5cm;
+}
+.post3{
+	margin-left: 0.5cm
+	margin-top:5px;
+	padding-left: 3.5cm;
+}
+.detail1{
+    background-color: white;
+    padding-left: 3.5cm
+}
+.detail2{
+    background-color: white;
+    padding-left: 3.5cm
+}
+.detail3{
+    background-color: white;
+    padding-left: 3.5cm
+}
+.formation{
+	margin-left: 0.5cm;
+	margin-top: 29px;
+	margin-bottom: 0px;
+	padding-left: 3.5cm;
+}
+
+.form{
+	text-align: justify-all;
+}
+.bac{
+	display: block;
+	text-align: center;
+	padding-top: 0px;
+
+}
+.ena{
+	display: block;
+	text-align: center;
+	padding-top: 20px;}
+.plus{
+	display: block;
+	text-align: center;
+	padding-top: 20px;
+}
+.contact{
+	background-color: DarkKhaki;
+	 height: 8cm;
+	 clear: both;
+	 margin-top: -20px;
+
+}
+.linebottom{
+	clear: both;
+	 padding-bottom: 0px;
+	  margin-bottom: 0px;
+	  height: 5px;
+	   background-color: #DCDCDC;
+}
+/*droit*/
+.seinture{
+	background-color: #4682B4;
+	height: 0.7cm;
+	margin-top: 20px;
+}
+.piccomp{
+	width: 1cm;
+	 margin-top: -5px;
+	 padding-left: 20px;
+}
+.hcomp{
+	float: right;
+	margin-top: -27px;
+	padding-right: 50px;
+}
+#Microsoft{
+	margin-top: 30px;
+	color: white;
+	margin-left: 25px;
+}
+#niveau1{
+	height: 5px;
+	background-image: linear-gradient(to right, green 90% ,red 10% );
+	width: 6cm;
+
+	 }
+#Html{
+	color: white;
+	margin-left: 25px;
+}
+#niveau2{
+	height: 5px;
+	 background-image: linear-gradient(to right, green 90% ,red 10% );
+	 width: 6cm;
+}
+#PS{
+	color: white;
+	margin-left: 25px;
+}
+#niveau3{
+	height: 5px;
+	 background-image: linear-gradient(to right, green 60% ,red 40% );
+	 width: 6cm;
+}
+#adwords{
+	color: white;
+	margin-left: 25px;
+}
+#niveau4{
+	height: 5px;
+	 background-image: linear-gradient(to right, green 70% ,red 30% );
+	 width: 6cm;
+}
+.seinture2{
+   background-color: #8A2BE2/*#6A5ACD*/ /*#663399*/;
+	height: 0.7cm;
+	margin-top: 20px;
+}
+.pilangue{
+	width: 1cm;
+	margin-top: -5px;
+	padding-left: 20px;
+
+}
+.hlangue{
+	float: right;
+	margin-top: -27px;
+	padding-right: 55px;
+
+}
+#francais{
+	color: white;
+	margin-left: 25px;
+}
+#niveau11{
+	height: 5px;
+	 background-image: linear-gradient(to right, green 80% ,red 10% );
+	 width: 6cm;
+}
+#anglais{
+	color: white;
+	margin-left: 25px;
+}
+#niveau22{
+	height: 5px;
+	 background-image: linear-gradient(to right, green 50% ,red 50% );
+	 width: 6cm;}
+
